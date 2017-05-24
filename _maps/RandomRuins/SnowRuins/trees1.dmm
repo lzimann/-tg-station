@@ -1,0 +1,15 @@
+"a" = (/obj/structure/flora/tree/pine,/turf/open/floor/grass/snow,/area/space)
+"b" = (/turf/open/floor/grass/snow,/area/space)
+
+(1,1,1) = {"
+ababbbbbbb
+bbbbababba
+bbaaabbbbb
+bbbbbabbab
+babbbbbbba
+bbbbabbbbb
+bbbbbaabab
+bbaabbbbab
+bbbbbbbbbb
+babbbbabbb
+"}

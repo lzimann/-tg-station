@@ -14,6 +14,16 @@
 
 // BEGIN_INCLUDE
 #include "_maps\basemap.dm"
+#include "_maps\map_files\Metastorm\MetaStorm.dmm"
+#include "_maps\RandomRuins\SnowRuins\snowdin.dmm"
+#include "_maps\RandomRuins\SnowRuins\snowdin2.dmm"
+#include "_maps\RandomRuins\SnowRuins\trees1.dmm"
+#include "_maps\RandomRuins\SnowRuins\trees2.dmm"
+#include "_maps\RandomRuins\SnowRuins\trees3.dmm"
+#include "_maps\RandomRuins\SnowRuins\trees4.dmm"
+#include "_maps\RandomRuins\SnowRuins\trees5.dmm"
+#include "_maps\RandomRuins\SnowRuins\trees6.dmm"
+#include "_maps\RandomRuins\SnowRuins\trees7.dmm"
 #include "code\_compile_options.dm"
 #include "code\world.dm"
 #include "code\__DATASTRUCTURES\globals.dm"

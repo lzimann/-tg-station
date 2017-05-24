@@ -1,0 +1,23 @@
+"a" = (/turf/open/space/basic,/area/space)
+"b" = (/turf/open/floor/grass/snow,/area/space)
+"c" = (/obj/structure/flora/tree/pine,/turf/open/floor/grass/snow,/area/space)
+"d" = (/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/grass/snow,/area/space)
+"e" = (/turf/open/floor/grass/snow/basalt,/area/space)
+"f" = (/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/grass/snow/basalt,/area/space)
+"g" = (/obj/structure/flora/tree/dead,/turf/open/floor/grass/snow,/area/space)
+"h" = (/obj/structure/flora/rock/pile/icy,/turf/open/floor/grass/snow,/area/space)
+"i" = (/obj/structure/flora/grass/both,/turf/open/floor/grass/snow/basalt,/area/space)
+"j" = (/obj/structure/flora/grass/both,/turf/open/floor/grass/snow,/area/space)
+
+(1,1,1) = {"
+abbcbbbbbb
+cbdedfbbbb
+bbdbbbbbbb
+bbdghbbbbb
+bbfffbbbbb
+gcedibbbbb
+bbddfbbcbc
+bbdfjbbbbc
+bbdfdbbbcb
+cbefdbbbcc
+"}

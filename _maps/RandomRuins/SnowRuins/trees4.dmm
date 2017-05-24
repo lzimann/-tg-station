@@ -1,0 +1,18 @@
+"a" = (/turf/open/floor/grass/snow,/area/space)
+"b" = (/obj/structure/flora/tree/pine,/turf/open/floor/grass/snow,/area/space)
+"c" = (/obj/structure/flora/tree/dead,/turf/open/floor/grass/snow,/area/space)
+"d" = (/turf/open/floor/plating/ice/temperate,/area/space)
+"e" = (/obj/structure/flora/tree/dead,/turf/open/floor/plating/ice/temperate,/area/space)
+
+(1,1,1) = {"
+aaaabaaaaa
+aabbaaaaaa
+baaaaacbaa
+aabddcaaaa
+aaadaaaaaa
+baaaecdbaa
+aaaeddeaaa
+aaaaaababa
+aaaaaaaabb
+aaaaaaaaaa
+"}
