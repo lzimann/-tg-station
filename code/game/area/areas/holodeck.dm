@@ -124,3 +124,7 @@
 /area/holodeck/rec_center/thunderdome1218
 	name = "Holodeck - 1218 AD"
 	restricted = 1
+
+//winterstorm//
+/area/snow/holodeck/rec_center
+	name = "\improper Recreational Holodeck"

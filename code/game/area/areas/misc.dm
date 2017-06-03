@@ -115,7 +115,7 @@
 /area/prison/solitary
 	name = "Solitary Confinement"
 	icon_state = "brig"
-	
+
 /area/prison/execution_room
 	name = "Prisoner Education Chamber"
 	icon_state = "armory"
@@ -134,3 +134,8 @@
 //	/area/prison/cell_block/C
 	name = "Prison Cell Block C"
 	icon_state = "brig"
+
+//winterstorm//
+/area/snow/prison/execution_room
+	name = "Prisoner Education Chamber"
+	icon_state = "armory"

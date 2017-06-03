@@ -879,3 +879,11 @@
 /obj/item/weapon/storage/box/silver_sulf/PopulateContents()
 	for(var/i in 1 to 7)
 		new /obj/item/weapon/reagent_containers/pill/patch/silver_sulf(src)
+
+/obj/item/weapon/storage/box/winter_clothes
+	name = "box of compressed winter clothes"
+	desc = "Winter clothes compressed into a tablet. Simply remove from box to obtain clothing."
+
+/obj/item/weapon/storage/box/winter_clothes/PopulateContents()
+	new /obj/item/clothing/shoes/winterboots(src)
+	new /obj/item/clothing/suit/hooded/wintercoat(src)

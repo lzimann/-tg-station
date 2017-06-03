@@ -173,3 +173,12 @@
 		new /obj/item/clothing/suit/hooded/wintercoat(src)
 		new /obj/item/clothing/shoes/winterboots(src)
 	return
+
+/obj/structure/closet/wardrobe/winter
+	name = "Winter clothing wardrobe"
+	icon_door = "grey"
+
+/obj/structure/closet/wardrobe/winter/PopulateContents()
+	for(var/i in 1 to 10)
+		new /obj/item/weapon/storage/box/winter_clothes(src)
+	return
